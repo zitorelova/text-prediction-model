@@ -1,0 +1,12 @@
+name: Text-Prediction-Model
+title: Text-Prediction-Model
+username:
+account: zrelova
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1100678
+bundleId: 2338741
+url: https://zrelova.shinyapps.io/Text-Prediction-Model/
+when: 1566332342.07436
+asMultiple: FALSE
+asStatic: FALSE
